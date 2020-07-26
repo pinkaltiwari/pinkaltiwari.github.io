@@ -1,0 +1,104 @@
+
+/***************************/
+/*---Media Queires CSS----*/
+/*---Mobile Devices CSS----*/
+/***************************/
+
+@media only screen and (max-width: 1366px) {
+	.banner-content {
+    top: 42%;
+}
+}
+ @media only screen and (min-width: 1281px) {
+}
+ @media only screen and (max-width: 1199px) {
+}
+ @media (min-width: 992px) and (max-width: 1199px) {
+}
+@media only screen and (max-width: 1024px) {
+ .footer-menu {
+flex-direction: column;
+}
+ .footer-menu li {
+ padding-bottom: 15px;
+}
+.copyright {
+ background-size: cover;
+ background-position: right center;
+}
+.banner-content h1 {
+    font-size: 40px;
+}
+.top-header img {
+    width: 210px;
+}
+.vision-mission {
+    margin-top: -106px;
+}
+.banner-content {
+    top: 35%;
+}
+.testimonial-carousel {
+    right: 221px !important;
+    bottom: 20px !important;
+}
+}
+ @media only screen and (max-width: 992px) {
+	 .os-main-menu {
+    background: #0f2149;
+    padding: 23px;
+}
+ .banner-content h1 {
+ font-size: 22px;
+}
+}
+
+ @media (max-width:768px) {
+	 
+	 .services-box {
+    float: none;
+}
+.banner-content {
+    top: 40%;
+}
+.vision-mission {
+    margin-top: -65px;
+}
+.testimonial-carousel {
+    right: 0 !important;
+    bottom: -47px !important;
+}
+}
+
+ @media (min-width: 736px) {
+	 
+}
+ @media (min-width:667px) {
+	 
+	
+}
+ @media (min-width: 375px) and (max-width: 666px) {
+ .banner-content h1 {
+ font-size: 22px;
+}
+.services-box {
+ float: none;
+}
+ .top-header img {
+ width: 220px;
+}
+.vision-mission {
+    margin-top: -50px;
+}
+.testimonial-carousel {
+    right: 0 !important;
+    bottom: -57px !important;
+}
+.banner-content {
+    top: 55%;
+}
+}
+ @media only screen and (max-width:480px) {
+}
+ @media only screen and (max-width:320px) {
+}
