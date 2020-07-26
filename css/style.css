@@ -39,14 +39,15 @@ body {
 	top: 0;
 }
 .banner-content {
-	position: absolute;
-	top: 55%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	width: 60%;
-	text-align: center;
-	color: #fff;
-	line-height: 1.5;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 60%;
+    text-align: center;
+    color: #fff;
+    line-height: 1.5;
+    left: 0;
+    right: 0;
 }
 .banner-content h5 {
 	font-size: 15px;
